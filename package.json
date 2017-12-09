@@ -1,0 +1,14 @@
+{
+  "name": "kraken",
+  "version": "1.0.0",
+  "description": "Blah Blah Blah ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sharky",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.2.1"
+  }
+}
